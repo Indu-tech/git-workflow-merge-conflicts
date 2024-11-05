@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Hello There!!
 
-I am making this change for merge conflict
+=======
+Hello There!!
+>>>>>>> fix
